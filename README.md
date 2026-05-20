@@ -17,7 +17,7 @@ An intelligent, production-grade Applicant Tracking System (ATS) built with Pyth
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -69,11 +69,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
-## Live Demo
-
-👉 [Try it here](https://resume-screening-system.streamlit.app)
 
 ---
 
