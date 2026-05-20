@@ -1,0 +1,80 @@
+{
+  "programming": [
+    "python", "java", "c++", "c#", "c", "javascript", "typescript", "r",
+    "go", "golang", "rust", "kotlin", "swift", "scala", "php", "ruby",
+    "matlab", "perl", "bash", "shell scripting", "powershell", "vba",
+    "assembly", "dart", "julia", "haskell", "elixir", "groovy"
+  ],
+  "web": [
+    "react", "react.js", "reactjs", "angular", "vue", "vue.js", "vuejs",
+    "node.js", "nodejs", "next.js", "nuxt.js", "express", "express.js",
+    "django", "flask", "fastapi", "spring", "spring boot", "laravel",
+    "html", "css", "sass", "tailwind", "bootstrap", "jquery",
+    "rest api", "restful api", "graphql", "websocket", "soap"
+  ],
+  "data_science": [
+    "machine learning", "ml", "deep learning", "dl", "artificial intelligence",
+    "ai", "nlp", "natural language processing", "computer vision", "cv",
+    "data science", "data analysis", "data analytics", "data engineering",
+    "data visualization", "statistical analysis", "statistics",
+    "supervised learning", "unsupervised learning", "reinforcement learning",
+    "regression", "classification", "clustering", "dimensionality reduction",
+    "feature engineering", "feature selection", "model training",
+    "model evaluation", "model deployment", "model optimization",
+    "transfer learning", "fine tuning", "hyperparameter tuning",
+    "cross validation", "a/b testing", "time series", "forecasting",
+    "anomaly detection", "recommendation systems", "sentiment analysis",
+    "text classification", "named entity recognition", "object detection",
+    "image classification", "image segmentation", "neural networks",
+    "convolutional neural networks", "cnn", "recurrent neural networks",
+    "rnn", "lstm", "transformers", "bert", "gpt", "llm",
+    "large language models", "generative ai"
+  ],
+  "ml_libraries": [
+    "pandas", "numpy", "scikit-learn", "sklearn", "tensorflow", "pytorch",
+    "keras", "xgboost", "lightgbm", "catboost", "hugging face",
+    "transformers", "spacy", "nltk", "gensim", "opencv", "pillow",
+    "matplotlib", "seaborn", "plotly", "bokeh", "altair",
+    "scipy", "statsmodels", "mlflow", "wandb", "optuna",
+    "langchain", "openai api", "stable diffusion"
+  ],
+  "databases": [
+    "sql", "mysql", "postgresql", "postgres", "mongodb", "redis",
+    "elasticsearch", "oracle", "sqlite", "cassandra", "snowflake",
+    "bigquery", "redshift", "dynamodb", "neo4j", "firebase",
+    "database design", "database management", "nosql",
+    "data warehouse", "data lake", "etl", "data pipeline"
+  ],
+  "cloud_devops": [
+    "aws", "amazon web services", "azure", "microsoft azure",
+    "gcp", "google cloud", "google cloud platform",
+    "docker", "kubernetes", "k8s", "terraform", "ansible",
+    "devops", "ci/cd", "jenkins", "github actions", "gitlab ci",
+    "linux", "ubuntu", "centos", "unix",
+    "microservices", "serverless", "cloud computing",
+    "infrastructure as code", "helm", "prometheus", "grafana",
+    "nginx", "apache", "api gateway"
+  ],
+  "data_tools": [
+    "spark", "apache spark", "hadoop", "hive", "kafka", "apache kafka",
+    "airflow", "apache airflow", "dbt", "dask", "flink",
+    "power bi", "tableau", "looker", "metabase", "excel",
+    "google sheets", "jupyter", "jupyter notebook", "google colab",
+    "databricks", "sagemaker", "vertex ai", "azure ml"
+  ],
+  "dev_tools": [
+    "git", "github", "gitlab", "bitbucket", "jira", "confluence",
+    "vs code", "visual studio", "pycharm", "intellij", "eclipse",
+    "postman", "swagger", "anaconda", "virtualenv",
+    "unit testing", "pytest", "jest", "selenium", "testing"
+  ],
+  "soft_and_management": [
+    "agile", "scrum", "kanban", "project management", "product management",
+    "team leadership", "communication skills", "problem solving",
+    "critical thinking", "collaboration", "mentoring",
+    "technical writing", "documentation", "code review",
+    "system design", "software architecture", "oop",
+    "object oriented programming", "design patterns", "clean code",
+    "algorithms", "data structures", "linear algebra", "probability"
+  ]
+}
